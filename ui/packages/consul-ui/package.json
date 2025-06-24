@@ -174,7 +174,7 @@
     "loader.js": "^4.7.0",
     "mnemonist": "^0.38.0",
     "ngraph.graph": "^19.1.0",
-    "parse-duration": "^1.0.0",
+    "parse-duration": "^2.1.3",
     "pretender": "^3.2.0",
     "prettier": "^2.5.1",
     "pretty-ms": "^7.0.1",
@@ -193,7 +193,7 @@
     "tracked-built-ins": "^3.1.0",
     "unist-util-visit": "^2.0.3",
     "wayfarer": "^7.0.1",
-    "webpack": "^5.74.0"
+    "webpack": "^5.94.0"
   },
   "engines": {
     "node": "18"
