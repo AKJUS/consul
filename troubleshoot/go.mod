@@ -27,7 +27,7 @@ require (
 	github.com/hashicorp/consul/envoyextensions v0.7.3
 	github.com/hashicorp/consul/sdk v0.16.1
 	github.com/stretchr/testify v1.8.4
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.6
 )
 
 require (
@@ -57,9 +57,9 @@ require (
 	github.com/prometheus/client_model v0.5.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.0.0 // indirect
 	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/net v0.42.0 // indirect
+	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/text v0.27.0 // indirect
 	google.golang.org/genproto v0.0.0-20230711160842-782d3b101e98 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230711160842-782d3b101e98 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230711160842-782d3b101e98 // indirect
